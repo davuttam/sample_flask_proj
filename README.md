@@ -1,2 +1,2 @@
 # sample_flask_proj
-Just for demo
+Just for demo Flask Project.
